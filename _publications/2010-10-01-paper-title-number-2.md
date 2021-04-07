@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Integrated Traffic Simulation-Prediction System using Neural Networks with Application to the Los Angeles International Airport Road Network"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: '**Abstract:** Transportation networks are highly complex and the design of efficient traffic management systems is difficult due to lack of adequate measured data and accurate predictions of the traffic states. Traffic simulation models can capture the complex dynamics of transportation networks by using limited available traffic data and can help central traffic authorities in their decision-making, if appropriate input is fed into the simulator. In this paper, we design an integrated simulation-prediction system which estimates the Origin-Destination (OD) matrix of a road network using only flow rate information and predicts the behavior of the road network in different simulation scenarios. The proposed system includes an optimization-based OD matrix generation method, a Neural Network (NN) model trained to predict OD matrices via the pattern of traffic flow and a microscopic traffic simulator with a Dynamic Traffic Assignment (DTA) scheme to predict the behavior of the transportation system. We test the proposed system on the road network of the central terminal area (CTA) of the Los Angeles International Airport (LAX), which demonstrates that the integrated traffic simulation-prediction system can be used to simulate the effects of several real world scenarios such as lane closures, curbside parking and other changes. The model is an effective tool for learning the impact and possible benefits of changes in the network and for analyzing scenarios at a very low cost without disrupting the network.'
+date: 2021
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
+paperurl: 'https://arxiv.org/abs/2008.01902'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Abstract:** Transportation networks are highly complex and the design of efficient traffic management systems is difficult due to lack of adequate measured data and accurate predictions of the traffic states. Traffic simulation models can capture the complex dynamics of transportation networks by using limited available traffic data and can help central traffic authorities in their decision-making, if appropriate input is fed into the simulator. In this paper, we design an integrated simulation-prediction system which estimates the Origin-Destination (OD) matrix of a road network using only flow rate information and predicts the behavior of the road network in different simulation scenarios. The proposed system includes an optimization-based OD matrix generation method, a Neural Network (NN) model trained to predict OD matrices via the pattern of traffic flow and a microscopic traffic simulator with a Dynamic Traffic Assignment (DTA) scheme to predict the behavior of the transportation system. We test the proposed system on the road network of the central terminal area (CTA) of the Los Angeles International Airport (LAX), which demonstrates that the integrated traffic simulation-prediction system can be used to simulate the effects of several real world scenarios such as lane closures, curbside parking and other changes. The model is an effective tool for learning the impact and possible benefits of changes in the network and for analyzing scenarios at a very low cost without disrupting the network.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/pdf/2008.01902.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Y. Zhang, A-A. Papadopoulos, P. Chen, F. Alasiri, T. Yuan, Jin Zhou, P. A. Ioannou. (2021). "Integrated Traffic Simulation-Prediction System using Neural Networks with Application to the Los Angeles International Airport Road Network." <i>IEEE Transactions on Inteligent Trnasportation Systems</i>. (under review).
