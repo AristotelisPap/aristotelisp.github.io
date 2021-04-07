@@ -62,14 +62,19 @@ Research experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C
+  * Matlab   
+* Machine Learning Tools
+  * PyTorch, Keras, TensorFlow
+  * Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Seaborn
+* Other
+  * SQL
+  * Git
+  * Linux   
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
