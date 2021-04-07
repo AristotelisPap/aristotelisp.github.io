@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Outlier Exposure with Confidence Control for Out-of-Distribution Detection"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S0925231221002393?via%3Dihub
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231221002393?via%3Dihub'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+**Abstract:** Deep neural networks have achieved great success in classification tasks during the last years. However, one major problem to the path towards artificial intelligence is the inability of neural networks to accurately detect samples from novel class distributions and therefore, most of the existent classification algorithms assume that all classes are known prior to the training stage. In this work, we propose a methodology for training a neural network that allows it to efficiently detect out-of-distribution (OOD) examples without compromising much of its classification accuracy on the test examples from known classes. We propose a novel loss function that gives rise to a novel method, Outlier Exposure with Confidence Control (OECC), which achieves superior results in OOD detection with OE both on image and text classification tasks without requiring access to OOD samples. Additionally, we experimentally show that the combination of OECC with state-of-the-art post-training OOD detection methods, like the Mahalanobis Detector (MD) and the Gramian Matrices (GM) methods, further improves their performance in the OOD detection task, demonstrating the potential of combining training and post-training methods for OOD detection.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/pdf/1906.03509.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
