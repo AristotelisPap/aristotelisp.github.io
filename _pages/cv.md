@@ -39,7 +39,7 @@ Research experience
 * Aug 2018 - Present : Los Angeles, CA, USA
 * Research Assistant
   * Developed OECC, an algorithm for Anomaly and Out-of-Distribution detection that outperformed the previous state-of-the-art by **6%** 
-  ([_Code_](https://github.com/nazim1021/OOD-detection-using-OECC)) and ([_Code_](https://github.com/nazim1021/OOD-detection-using-OECC))
+  ([_Paper_](https://arxiv.org/abs/1906.03509)) and ([_Code_](https://github.com/nazim1021/OOD-detection-using-OECC))
   * Detecting hateful users on Twitter combining tweet content embeddings and graph neural networks based on a retweet graph
   * Authored a research proposal that was awarded $5,000 Google Cloud credits by Google 
 
