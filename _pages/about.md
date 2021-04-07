@@ -10,9 +10,11 @@ redirect_from:
 
 I am a passionate problem-solver and a strong advocate of the idea "Every problem has a solution!". Dedication, persistence and a good team are the key ingredients to achieve great results.
 
-Tech, Machine Learning and AI enthusiast. Highly skilled in Python, Machine Learning, Deep Learning and Optimization with a strong quantitative background. Interested in applications in Financial Markets, Transportation, Social Media and Healthcare.
+Tech, Machine Learning and AI enthusiast. Highly skilled in Python, Machine Learning, Deep Learning and Optimization with a strong quantitative background. Interested in applications in Technology, Financial Markets, Transportation, Social Media and Healthcare.
 
-PhD student in Electrical and Computer Engineering at the University of Southern California (USC) with an extensive publication record in academic conferences and journals.
+During Summer 2021, I will be working as a Software Engineer - Machine Learning Intern at Facebook as a member of the Marketplace team. During Summer 2019, I worked as a Machine Learning Research Intern at Fujitsu Laboratories of America.
+
+Currently, a 5th year PhD student in Electrical and Computer Engineering at the University of Southern California (USC) with a publication record in prestigious academic conferences and journals.
 
 
 For more info
