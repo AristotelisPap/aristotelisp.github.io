@@ -19,12 +19,12 @@ Education
 Work experience
 ======
 * **Facebook Inc.**
-* May 2021 - Aug 2021 | Menlo Park, CA, USA
+* May 2021 - Aug 2021 : Menlo Park, CA, USA
 * Software Engineer Intern (Machine Learning Track)
   * Incoming intern at the Marketplace team 
 
 * **Fujitsu Laboratories of America Inc.**
-* May 2019 - Aug 2019 | Sunnyvale, CA, USA
+* May 2019 - Aug 2019 : Sunnyvale, CA, USA
 * Machine Learning Research Intern
   * Developed a software tool in Python for designing rule-based classification algorithms using Bayesian model selection techniques for XGBoost
   * Optimized the software tool to handle multi-class classification and class-imbalanced problems
