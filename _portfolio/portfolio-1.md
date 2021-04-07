@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Microscopic Traffic Simulator of the Los Angeles International Airport"
+excerpt: "Our research team developed a microscopic traffic simulator of the LAX airport using machine learning, optimization and commercial traffic simulation software. This simulator is currently used by the LAX traffic agency in their decision-making process. <br/><img src='/images/LAX_sim.jpg'>"
 collection: portfolio
 ---
 
