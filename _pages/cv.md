@@ -50,7 +50,7 @@ Research experience
   * Designing machine learning and optimization algorithms for personalized routing of truck drivers with data provided from more than 50 trucking companies
   * Developed an optimization algorithm for optimum traffic assignment combined with a game-theoretic pricing strategy and reduced traffic congestion by **9%**
   * Published results in 3 peer-reviewed journals and 2 international conferences (1st author)
-  * * Supervisors: [_Prof. Petros Ioannou_](https://pioannou.usc.edu/) and [_Prof. Maged Dessouky_](https://sites.usc.edu/maged/)
+  ** Supervisors: [_Prof. Petros Ioannou_](https://pioannou.usc.edu/) and [_Prof. Maged Dessouky_](https://sites.usc.edu/maged/)
 
   
 Skills
