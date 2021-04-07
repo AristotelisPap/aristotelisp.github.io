@@ -29,8 +29,26 @@ Work experience
   * Developed a software tool in Python for designing rule-based classification algorithms using Bayesian model selection techniques for XGBoost
   * Optimized the software tool to handle multi-class classification and class-imbalanced problems
   * Evaluated the proposed algorithm and compared it with the state-of-the-art Deep Learning explanation models (LIME, SHAP, Anchors) published in top AI conferences (NIPS, AAAI)   
-  * Supervisor: Dr. Kanji Uchino
+  * Supervisor: [_Dr. Kanji Uchino_](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/research-staff/kanjiuchino.html)
 
+
+
+Research experience
+======
+* **University of Southern California**
+* Aug 2018 - Present : Los Angeles, CA, USA
+* Research Assistant
+  * Developed OECC, an algorithm for Anomaly and Out-of-Distribution detection that outperformed the previous state-of-the-art by **6%** [_Paper_](\href{https://arxiv.org/abs/1906.03509) [_Code_](https://github.com/nazim1021/OOD-detection-using-OECC)
+  * Detecting hateful users on Twitter combining tweet content embeddings and graph neural networks based on a retweet graph
+  * Authored a research proposal that was awarded $5,000 Google Cloud credits by Google 
+
+* **Center for Advanced Transportation Technologies**
+* Aug 2016 - Present : Los Angeles, CA, USA
+* Graduate Research Assistant
+  * Led the development of a microscopic traffic simulator for the LAX airport using data provided by Los Angeles World Airports that is currently used by the LAX traffic agency [_Paper_](https://arxiv.org/abs/2008.01902)
+  * Designing machine learning and optimization algorithms for personalized routing of truck drivers with data provided from more than 50 trucking companies
+  * Developed an optimization algorithm for optimum traffic assignment combined with a game-theoretic pricing strategy and reduced traffic congestion by **9%**
+  * Published results in 3 peer-reviewed journals and 2 international conferences (1st author)
 
   
 Skills
@@ -48,17 +66,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
