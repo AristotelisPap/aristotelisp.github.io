@@ -52,6 +52,13 @@ Research experience
   * Published results in 3 peer-reviewed journals and 2 international conferences (1st author)
   * Supervisors: [_Prof. Petros Ioannou_](https://pioannou.usc.edu/) and [_Prof. Maged Dessouky_](https://sites.usc.edu/maged/)
 
+* **Power Systems, Renewable and Distributed Generation Laboratory**
+* Dec 2014 - May 2016 : Patras, Greece
+* Undergraduate Research Assistant
+  * Designed a control algorithm to reduce oscillations in convey-crane systems
+  * Developed a novel control algorithm for inverted pendulum system stabilization
+  * Published results in 2 international conferences in IEEE Xplore (1st author)
+
   
 Skills
 ======
@@ -69,6 +76,7 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+Memberships and Service
 ======
-* Currently signed in to 43 different slack teams
+* MENSA - The High IQ Society (Top 1%) [_More info_](https://www.mensa.org/)
+* Hellenic Students Association of USC (Vice President)
