@@ -74,7 +74,7 @@ Skills
   * Git
   * Linux   
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
