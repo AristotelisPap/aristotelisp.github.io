@@ -62,19 +62,19 @@ Research experience
   
 Skills
 ======
-* Programming Languages
+* Programming Languages:
   * Python
   * C
   * Matlab   
-* Machine Learning Tools
+* Machine Learning Tools:
   * PyTorch, Keras, TensorFlow
   * Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Seaborn
-* Other
+* Other:
   * SQL
   * Git
   * Linux   
 
-Selected Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
