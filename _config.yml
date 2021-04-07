@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Aristotelis-Angelos Papadopoulos"
 title_separator          : "-"
 name                     : &name "Aristotelis-Angelos Papadopoulos"
-description              : &description "personal description"
+description              : &description "Incoming SWE/ML Intern at Facebook, PhD at USC"
 url                      : https://aristotelisp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aristotelisp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
