@@ -4,4 +4,4 @@ excerpt: "Our research team developed a microscopic traffic simulator of the LAX
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Please check the accompanying [_Paper_](https://arxiv.org/abs/2008.01902) and some [_Video demonstrations_](https://drive.google.com/drive/u/1/folders/1RJZFeSlYCGIJcae2xgNS0B8ahFi4FgDn).
