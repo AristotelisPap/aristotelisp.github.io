@@ -1,6 +1,6 @@
 ---
 title: "Novel class detection in classification algorithms"
-excerpt: "Our team proposed OECC, an algorithm for Anomaly and Out-of-Distribution Detection using Deep Neural networks. OECC achieves state-of-the-art (SOTA) results in both image and text classification tasks. <br/><img src='/images/OECC_img.jpj'>"
+excerpt: "Our team proposed OECC, an algorithm for Anomaly and Out-of-Distribution Detection using Deep Neural networks. OECC achieves state-of-the-art (SOTA) results in both image and text classification tasks. <br/><img src='/images/OECC_img.jpg'>"
 collection: portfolio
 ---
 
